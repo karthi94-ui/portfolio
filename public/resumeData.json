@@ -1,0 +1,97 @@
+{
+  "main": {
+    "name": "Karthik P,",
+    "occupation": "ReactJS Developer",
+    "description": "Full Stack Developer and building beautiful, responsive web apps.",
+    "image": "kar.jpg",
+    "bio": "My name is Karthik, I'm a Full Stack ReactJS Developer.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "karthiguru945@gmail.com",
+    "phone": "+91-7708890887",
+    "address": {
+      "street": "kallidaikurichi,",
+      "city": "Tirunelveli, Tamilnadu",
+      "state": "TN",
+      "zip": "627416"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1zCsXF2roDuzRi6oL55mxbmD8zbL2rTzW/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/karthik-guru-947948169/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/tn76_boy_karthi/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/karthi94-ui",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Coimbatore Institute of Technology",
+        "degree": "B.E in Computer Science and Engineering",
+        "graduated": "April 2019"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Firebase",
+        "level": "85%"
+      },
+      {
+        "name": "MYSQL",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "CSS3",
+        "level": "95%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Shopping Website with firebase",
+        "category": "Shopping Website with firebase(Authencation)",
+        "image": "amazon.png",
+        "url": "https://fir-1e857.web.app/"
+      },
+      {
+        "title": "Instagram Clone with firebase",
+        "category": "Instagram Clone built with ReactJS and Firebase",
+        "image": "insta.png",
+        "url": "https://instagram-clone-react-a32e3.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": ""
+      }
+
+    ]
+  }
+}
